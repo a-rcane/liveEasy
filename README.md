@@ -5,6 +5,7 @@
 3. Uses Postgresql db to store and access data.
 
 <h2>How to use : </h2>
+
 1. Start the project.
 2. GET "localhost:8080/loads" : used for getting all the payloads
 3. GET "localhost:8080/load/{loadId}" : used for getting unique payload, if it exists.
